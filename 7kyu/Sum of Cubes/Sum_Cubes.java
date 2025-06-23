@@ -13,7 +13,7 @@ public class Sum_Cubes{
     long i = 1;
     
     while( i <= n){
-      
+      //This sum the cube the variable i not the square.
       sumCubes += i* i * i;
       
       i++;
