@@ -1,4 +1,4 @@
-package java_codewars_exercies;
+package _7kyu.Reverse_a_Number;
 
 public class ReverseNumber {
 
