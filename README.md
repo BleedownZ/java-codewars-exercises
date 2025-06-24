@@ -1,10 +1,8 @@
 # java-codewars-exercises
 This repository contains my personal solutions to various Codewars kata challenges using Java.
-The exercises are organized by difficulty level (from 8 kyu to 6 kyu). Each file includes comments explaining the logic used to solve the problem.
+The exercises are organized by difficulty level (from 7 kyu to 6 kyu). Each file includes comments explaining the logic used to solve the problem.
 ## 📁 Folder Structure
  java-codewars-exercises/
-- ├── 8kyu/
-- │     └── ExampleProblem.java
 - ├── 7kyu/
 - │     └── AnotherProblem.java
 - ├── 6kyu/
