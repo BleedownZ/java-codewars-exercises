@@ -1,5 +1,5 @@
 package _7kyu.Reverse_a_Number;
-
+//There are issues in numbers that begin and end in 0.
 public class ReverseNumber {
 
 	public static void main(String[] args) {
