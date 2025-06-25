@@ -4,7 +4,7 @@
 -`OX.java`: First working version.
 ## Examples
 ```java
-    System.out.println(getXO("sfdxxoofjleo"));//false
+    		System.out.println(getXO("sfdxxoofjleo"));//false
 		System.out.println(getXO("2adxxoofjlxeo"));//true
 		System.out.println(getXO("fdslfdjsoerjj3238xxo"));//true
 		System.out.println(getXO("sfdffjles"));//true
