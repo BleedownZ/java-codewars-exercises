@@ -6,7 +6,10 @@ import java.util.regex.Pattern;
 public class Printer {
 
 	public static void main(String[] args) {
-		
+		System.out.println(printerError("jsldfjslds8"));// "4/11" 
+		System.out.println(printerError("jslfjoeiw83"));// "5/11"
+		System.out.println(printerError("feoifjncoelsjlsaakjmm"));// "5/21"
+		System.out.println(printerError("@#sljdfssjlo3"));// "7/13"
 
 	}
 	 public static String printerError(String s) {
