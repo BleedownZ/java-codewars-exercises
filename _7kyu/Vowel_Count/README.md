@@ -6,6 +6,6 @@
 ## Examples
 ```java
     System.out.println(getCount("dictionaries"));//6
-		System.out.println(getCount("Manufacturers"));//5
+    System.out.println(getCount("Manufacturers"));//5
     System.out.println(getCount("Grammar "));//3
-		System.out.println(getCount("Pronouncing"));//4
+    System.out.println(getCount("Pronouncing"));//4
