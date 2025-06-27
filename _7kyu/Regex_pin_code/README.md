@@ -5,6 +5,6 @@
 ## Examples
 ```java
 System.out.println(validatePin("2343o322"));//false
-		System.out.println(validatePin("4343"));//true
-		System.out.println(validatePin("23H387"));//false
-		System.out.println(validatePin("322343"));//true
+System.out.println(validatePin("4343"));//true
+System.out.println(validatePin("23H387"));//false
+System.out.println(validatePin("322343"));//true
