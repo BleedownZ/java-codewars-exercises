@@ -6,6 +6,6 @@
 ## Examples
 ```java
     System.out.println(reverseWords("The moon "));//ehT noom 
-		System.out.println(reverseWords("  Look  the street  "));//  kooL  eht teerts
+    System.out.println(reverseWords("  Look  the street  "));//  kooL  eht teerts
     System.out.println(reverseWords("The following  table"));//ehT gniwollof  elbat
-		System.out.println(reverseWords("Java compiler"));//avaJ relipmoc
+    System.out.println(reverseWords("Java compiler"));//avaJ relipmoc
