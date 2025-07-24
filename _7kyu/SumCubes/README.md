@@ -5,8 +5,8 @@
 
 ## Examples
 ```java
-sumCubes(2L) // 9  
-sumCubes(3L) // 36
-sumCubes(4L) // 100
-sumCubes(5L) // 225
+System.out.println(sumCubes(2L));// 9  
+System.out.println(sumCubes(3L)); // 36
+System.out.println(sumCubes(4L)); // 100
+System.out.println(sumCubes(5L)); // 225
 
