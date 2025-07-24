@@ -6,7 +6,7 @@
 
 ## Examples
 ```java
-sumCubes(45345) // 54354  
-sumCubes(-24358) //-85342
-sumCubes(-123) //-321
-sumCubes(943458) // 854349
+    System.out.println(removeDuplicateWords("cat dog dog mouse cat cat rabbit"));//cat dog mouse rabbit
+		System.out.println(removeDuplicateWords("sun sun moon moon moon star"));//sun moon star
+    System.out.println(removeDuplicateWords("hello hello world world test test test"));//hello world test
+		System.out.println(removeDuplicateWords("run walk walk jump run run run"));//run walk jump
