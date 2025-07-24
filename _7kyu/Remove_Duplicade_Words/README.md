@@ -7,6 +7,6 @@
 ## Examples
 ```java
     System.out.println(removeDuplicateWords("cat dog dog mouse cat cat rabbit"));//cat dog mouse rabbit
-		System.out.println(removeDuplicateWords("sun sun moon moon moon star"));//sun moon star
+    System.out.println(removeDuplicateWords("sun sun moon moon moon star"));//sun moon star
     System.out.println(removeDuplicateWords("hello hello world world test test test"));//hello world test
-		System.out.println(removeDuplicateWords("run walk walk jump run run run"));//run walk jump
+    System.out.println(removeDuplicateWords("run walk walk jump run run run"));//run walk jump
