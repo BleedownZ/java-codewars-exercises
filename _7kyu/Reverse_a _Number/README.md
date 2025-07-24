@@ -5,7 +5,7 @@
 
 ## Examples
 ```java
-sumCubes(45345) // 54354  
-sumCubes(-24358) //-85342
-sumCubes(-123) //-321
-sumCubes(943458) // 854349
+System.out.println(sumCubes(45345)); // 54354  
+System.out.println(sumCubes(-24358)); //-85342
+System.out.println(sumCubes(-123)); //-321
+System.out.println(sumCubes(943458)); // 854349
