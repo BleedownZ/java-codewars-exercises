@@ -2,7 +2,7 @@
 ** Link:** [Solve this kata on Codewars](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
 ## Versions
 - `Multiple_Of_5.java`: First working version.
-- ``: Refractory version()
+- ``: Refactoring version()
 
 ## Examples
 ```java
