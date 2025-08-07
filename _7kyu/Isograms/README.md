@@ -9,4 +9,4 @@
     		System.out.println(isIsogram("campers"));//true
 	        System.out.println(isIsogram("appears"));//false
 		System.out.println(isIsogram("dialogue"));//true
-		System.out.println(isIsogram("differently "));//false
+		System.out.println(isIsogram("differently"));//false
