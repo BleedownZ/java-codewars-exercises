@@ -6,7 +6,7 @@
 
 ## Examples
 ```java
-System.out.println(dontGiveMeFive(103,332));//189
+        System.out.println(dontGiveMeFive(103,332));//189
 		System.out.println(dontGiveMeFive(4,212));//170
 		System.out.println(dontGiveMeFive(8,112));//86
 		System.out.println(dontGiveMeFive(12,343));//272
