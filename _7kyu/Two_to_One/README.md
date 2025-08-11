@@ -6,7 +6,7 @@
 
 ## Examples
 ```java
-System.out.println(longest("xpcorkdsf", "oeuplsr"));//cdefkloprsux
+		System.out.println(longest("xpcorkdsf", "oeuplsr"));//cdefkloprsux
 		System.out.println(longest("bbcvllo", "orxwd"));//bcdlorvwx
 		System.out.println(longest("eoasfpsel", "geridkdkd"));//adefgikloprs
 		System.out.println(longest("oweld", "slerouxp"));//deloprsuwx
