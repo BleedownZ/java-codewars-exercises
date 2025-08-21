@@ -6,7 +6,7 @@
 
 ## Examples
 ```java
-    int[] elements =  {1, 2, 1, 2, 1, 2, 1, 2};
+        int[] elements =  {1, 2, 1, 2, 1, 2, 1, 2};
 		int maxOccurrences = 3;
 
 		System.out.println(Arrays.toString(deleteNth(elements, maxOccurrences)));//[1, 2, 1, 2, 1, 2]
