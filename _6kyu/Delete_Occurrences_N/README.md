@@ -1,4 +1,4 @@
-# Delete accurrences of an element if it occurs more than n times (6kyu)
+# Delete occurrences of an element if it occurs more than n times (6kyu)
 ** Link:** [Solve this kata on Codewars](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
 ## Versions
 - `EnoughIsEnough.java`: First working version.

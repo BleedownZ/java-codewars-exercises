@@ -14,7 +14,7 @@ public class MyFirstInterpreter {
 
     }
 
-    private String code;
+    private final String code;
     public MyFirstInterpreter(String code) {
 
         this.code = code;
