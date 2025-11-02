@@ -6,7 +6,7 @@
 
 ## Examples
 ```java
-     System.out.println(camelCase("ListCard"));
+        System.out.println(camelCase("ListCard"));
         System.out.println(camelCase("quarterOfClock"));
         System.out.println(camelCase("printerBox"));
         System.out.println(camelCase("teleconDifferent"));
