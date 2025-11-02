@@ -18,9 +18,7 @@ public class Multiplication {
             int numberRow = 1;
             //Represents the columns in that row
             for (int j = 0; j < n; j++){
-                int numberResult = 0;
-                //
-                numberResult = numberRow * numberColum;//Multiplies the current row and column numbers.
+                int numberResult = numberRow * numberColum;//Multiplies the current row and column numbers.
                 table[i] [j] = numberResult;//Stores the result in the array.
                 numberRow++;
             }
