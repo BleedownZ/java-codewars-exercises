@@ -71,7 +71,7 @@ public class FruitMachine {
             boolean twoMoreWild = fruit2 == 1 && wild == 1;
             boolean twoSame = fruit2 == 1 && noEqual == 1;
             //Put score to fruits
-            int baseScore = 0;
+            int baseScore;
             switch (mostRepeat) {
                 case "Wild":
                     baseScore = 10;
