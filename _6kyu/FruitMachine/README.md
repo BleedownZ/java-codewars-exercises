@@ -6,17 +6,14 @@
 
 ## Examples
 ```java
-        int[] elements =  {1, 2, 1, 2, 1, 2, 1, 2};
-		int maxOccurrences = 3;
-
-		System.out.println(Arrays.toString(deleteNth(elements, maxOccurrences)));//[1, 2, 1, 2, 1, 2]
-		
-		int[] elements1 =  {3, 3, 3, 3, 3};
-		int maxOccurrences1 = 10;
-
-		System.out.println(Arrays.toString(deleteNth(elements1, maxOccurrences1)));//[3, 3, 3, 3, 3]
-
-		int[] elements2 = {0, 0, 1, 0, 2, 2, 0, 3};
-		int maxOccurrences2 = 2;
-
-		System.out.println(Arrays.toString(deleteNth(elements2, maxOccurrences2)));//[0, 0, 1, 2, 2, 3]
+      String[][] reels = {
+                {"Wild","Star","Bell","Shell","Seven","Cherry","Bar","King","Queen","Jack"},
+                {"Wild","Star","Bell","Shell","Seven","Cherry","Bar","King","Queen","Jack"},
+                {"Wild","Star","Bell","Shell","Seven","Cherry","Bar","King","Queen","Jack"}
+        };
+        int[] spin = {1, 1, 1};
+        int[] spin1 = {2, 3, 4};
+        int[] spin2 = {8, 8, 8};
+        System.out.println(fruit(reels,spin));
+        System.out.println(fruit(reels,spin1));
+        System.out.println(fruit(reels,spin2));
