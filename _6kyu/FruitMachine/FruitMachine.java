@@ -11,9 +11,9 @@ public class FruitMachine {
         int[] spin = {5, 5, 5};
         int[] spin1 = {3, 3, 3};
         int[] spin2 = {4, 4, 4};
-        System.out.println(fruit(reels,spin));
-        System.out.println(fruit(reels,spin1));
-        System.out.println(fruit(reels,spin2));
+        System.out.println(fruit(reels,spin));//50 points
+        System.out.println(fruit(reels,spin1));//70 points
+        System.out.println(fruit(reels,spin2));//60 points
 
     }
     public static int fruit(final String[][] reels, final int[] spins) {
