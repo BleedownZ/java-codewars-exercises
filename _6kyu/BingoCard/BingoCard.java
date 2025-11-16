@@ -11,6 +11,7 @@ public class BingoCard {
 
         /* Print the bingo card elements */
         System.out.println("Generated Bingo Card:");
+        assert bingoCard != null;
         for (String s : bingoCard) {
             System.out.print(s + " ");
 
