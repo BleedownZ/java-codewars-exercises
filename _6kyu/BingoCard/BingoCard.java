@@ -27,8 +27,8 @@ public class BingoCard {
 
         for (int j = 0; j < numbersLetters.length && position < cardBingo.length; j++){
             Set<Integer> uniqueNumbers = new HashSet<>();
-            int origin = 0;
-            int bound = 0;
+            int origin;
+            int bound;
 
             switch (letters[j]) {
                 case "B":
