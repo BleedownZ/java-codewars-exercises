@@ -1,4 +1,4 @@
-package _6kyu.GreedIsGood;
+package _5kyu.GreedIsGood;
 
 public class Greed {
     public static void main(String[] args) {
