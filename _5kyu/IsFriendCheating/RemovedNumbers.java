@@ -28,7 +28,7 @@ public class RemovedNumbers {
         // variables
         long totalSum = (n*(n+1))/2;//Formula Carl Friedrich Gauss.
         long a = 1;
-        long b = 0;
+        long b ;
         List<long[]> result = new ArrayList<>();
         //loop
         while (a <= n){
@@ -37,8 +37,6 @@ public class RemovedNumbers {
             // Check if b is lower than n and the check the third point of kata.
             if(b <= n && a * b == totalSum - a - b){
                 result.add(new long[]{a,b});
-            }else {
-                b = a;
             }
             a++;
         }
